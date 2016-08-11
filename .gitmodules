@@ -1,0 +1,3 @@
+[submodule "api-library"]
+	path = api-library
+	url = https://github.com/CreaoticX/api-library.git
